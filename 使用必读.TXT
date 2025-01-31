@@ -1,0 +1,35 @@
+！！！提醒：请务必在转载或分享本软件时保留此说明文件，谢谢合作！！！
+
+隐私&安全：
+
+- 程序
+1. 本程序内不包含任何恶意代码，如有杀软误报请自行加入白名单（曾提交火绒和360人工检测都为安全）；
+2. 程序只调用了在线统计，单纯用来统计使用人数，除此之外不会上传或泄漏您的任何个人隐私数据；
+3. 因功能需要，建议使用管理员权限运行，程序可能会HOOK键鼠操作，比如为了避免某些游戏屏蔽热键导致无法截图 ；
+4. 由于HOOK键鼠的行为容易被某些杀软视为敏感操作，有时在程序文件被杀软检测为安全的前提下，还可能在程序运行中途被提示可疑操作，请记得放行；
+5. 程序的开发与发布均在ESET NOD32杀软保护的环境中完成，如果使用过程中，您系统中某种“安全”软件坚称「发现木马」，那么此情形将考验您的判断力；
+
+- 引擎
+1. 本程序目前已支持调用离线OCR引擎，除此之外调用的识别/翻译/朗读等基本都为在线引擎；
+2. 理论上用户上传至各个在线引擎的数据都只是缓存数据，通常会在一段时间内清除；
+3. 但在线引擎服务器毕竟为各引擎所属公司控制和所有（如百度、腾讯），我无法保证您上传数据的绝对安全性；
+4. 如果您要处理的数据属于商业或机密数据，建议换用离线OCR引擎或其他自己可控的本地私有化产品，否则因此发生的任何损失，本人表示概不负责；
+
+
+项目主页：https://github.com/miaomiaosoft/PandaOCR.Pro
+备用主页：https://gitee.com/DDDDDGOOO/PandaOCR.Pro
+
+问题反馈：https://github.com/miaomiaosoft/PandaOCR.Pro/issues
+               https://support.qq.com/products/322047
+
+使用教程：https://www.showdoc.com.cn/PandaOCR/0
+               https://support.qq.com/products/322047/faqs-more
+
+常见问题：https://www.showdoc.com.cn/PandaOCR/11558471155892770
+               https://support.qq.com/products/322047/faqs-more/#classifyId=58619
+
+误报解释：https://www.showdoc.com.cn/PandaOCR/11558471157426595
+               https://support.qq.com/products/322047/faqs/95283
+
+本程序目前主要在 Github 发布和更新，暂时没有所谓的 PandaOCR 官网或 熊猫OCR 官网，请知悉！
+PandaOCR 从2018年发布至今一直在用爱发电，现在它需要您的支持！如果此工具能帮助到你，请考虑捐助或激活专业版让它能持续更新维护或提供更多功能，谢谢！
